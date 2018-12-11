@@ -4,7 +4,7 @@ import com.design.patterns.singleton.SingletonExample;
 import org.junit.Assert;
 import org.junit.Test;
 
-public class SingletonPatterTest {
+public class SingletonPatternTest {
 
     @Test
     public void shouldCreateSingletonInstance() {
